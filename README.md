@@ -29,6 +29,7 @@ mvn spring-boot:run Open your web browser and go to the following link to access
 
 
 Here's what you can do:
+
 View Customers: Access the link provided above (http://localhost:8081/) to see a list of existing customers.
 
 Add New Customers: Click on the "Add Customer" button to navigate to the customer creation form. Fill in the required details and click "Save" to add a new customer to the database.
