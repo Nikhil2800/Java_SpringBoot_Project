@@ -1,22 +1,34 @@
 
 Student Management App built with Java, Spring Boot, and utilizing MySQL as the database management system and Thymeleaf as the template engine
 
-Features
+Features :
 
 View a list of student. 
-Add new student to the database. 
-Update existing student information. 
+
+Add new student to the database.
+
+Update existing student information.
+
 Delete student from the database.
 
 Technologies Used
 
 Java 
+
 Spring Boot 
+
 Thymeleaf 
+
 MySQL 
-HTML 
+
+HTML5
+
+css3
+
 Bootstrap 
+
 Requirements Java Development Kit (JDK) 8 or higher. 
+
 MySQL database server. Maven build tool.
 
 Before running the application, make sure to set up the MySQL database with the required schema and data.
